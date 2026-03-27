@@ -7,7 +7,7 @@ from threading import Thread
 
 # ১. আপনার তথ্য এখানে দিন
 TOKEN = '8543328933:AAGaO3MfbaXYrO9Hc8K1Go3N-8eVLiD8-C8'
-FB_LINK = "আপনার_ফেসবুক_লিংক" 
+FB_LINK = "https://www.facebook.com/share/18jpf1F6iE/" 
 
 # ২. সার্ভার সচল রাখার জন্য Flask setup
 app = Flask('')
